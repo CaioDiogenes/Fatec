@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1523124635 source:c:\users\ishida\documents\fatec\tiosso\lista02\listadeexercicio02\exer2.c
+	<stdio.h>
+
+1523124682 source:c:\users\ishida\documents\fatec\tiosso\lista02\listadeexercicio02\main.c
+	<stdio.h>
+

@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1521636930 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista01\exe01.c
+
+1521637093 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista01\exe02.c
+	<stdio.h>
+	<locale.h>
+
+1521637286 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista01\exe08.c
+	<stdio.h>
+	<locale.h>
+
+1521637112 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista01\exe03.c
+	<stdio.h>
+	<locale.h>
+
+1521637156 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista01\exe04.c
+	<stdio.h>
+	<locale.h>
+
+1521637183 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista01\exe05.c
+	<stdio.h>
+	<locale.h>
+
+1521637239 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista01\exe06.c
+	<locale.h>
+
+1521637266 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista01\exe07.c
+	<stdio.h>
+	<locale.h>
+
+1521637312 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista01\exe09.c
+	<stdio.h>
+	<locale.h>
+
+1521637340 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista01\exe10.c
+	<stdio.h>
+	<locale.h>
+
+1521637374 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista01\exe11.c
+	<stdio.h>
+	<locale.h>
+
+1521402375 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista01\exe12.c
+	<stdio.h>
+	<locale.h>
+
