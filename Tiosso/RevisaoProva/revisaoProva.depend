@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1523586202 source:c:\users\ishida\documents\fatec\tiosso\revisaoprova\revisaoprova\exe01.c
+
+1523586291 source:c:\users\ishida\documents\fatec\tiosso\revisaoprova\revisaoprova\exe02.c
+	<stdio.h>
+	<locale.h>
+
+1523586326 source:c:\users\ishida\documents\fatec\tiosso\revisaoprova\revisaoprova\exe02b.c
+	<stdio.h>
+	<locale.h>
+
+1523586274 source:c:\users\ishida\documents\fatec\tiosso\revisaoprova\revisaoprova\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1523586579 source:c:\users\ishida\documents\fatec\tiosso\revisaoprova\revisaoprova\exe03.c
+	<stdio.h>
+	<locale.h>
+

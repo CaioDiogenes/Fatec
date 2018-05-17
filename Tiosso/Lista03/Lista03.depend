@@ -1,0 +1,220 @@
+# depslib dependency file v1.0
+1524315878 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\exe01.c
+	<stdio.h>
+	<locale.h>
+
+1524316125 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\exe02.c
+	<stdio.h>
+	<locale.h>
+
+1524322855 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\exe03.c
+	<stdio.h>
+	<locale.h>
+
+1524321743 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\exe00.c
+	<stdio.h>
+	<locale.h>
+
+1524326812 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\exe04.c
+	<stdio.h>
+	<locale.h>
+
+1524323498 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\exe05.c
+	<stdio.h>
+	<locale.h>
+
+1524324339 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\exe06.c
+	<stdio.h>
+	<locale.h>
+
+1524325048 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\exe07a.c
+	<stdio.h>
+	<locale.h>
+
+1524325115 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\exe07b.c
+	<stdio.h>
+	<locale.h>
+
+1524325901 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\exe08.c
+	<stdio.h>
+	<locale.h>
+
+1524326146 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\exe09.c
+	<stdio.h>
+	<locale.h>
+
+1524326424 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\exe10.c
+	<stdio.h>
+	<locale.h>
+	<math.h>
+
+1524326658 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\exe11.c
+	<stdio.h>
+	<locale.h>
+
+1524327743 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\exe12.c
+	<stdio.h>
+	<locale.h>
+
+1524328198 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\exe13.c
+	<stdio.h>
+	<locale.h>
+
+1524329185 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\exe14.c
+	<stdio.h>
+	<locale.h>
+
+1524331410 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\exe15.c
+	<stdio.h>
+	<locale.h>
+
+1524331607 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\exe16.c
+	<stdio.h>
+	<locale.h>
+
+1524331729 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\programas\exe00.c
+	<stdio.h>
+	<locale.h>
+
+1524315878 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\programas\exe01.c
+	<stdio.h>
+	<locale.h>
+
+1524316125 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\programas\exe02.c
+	<stdio.h>
+	<locale.h>
+
+1524322855 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\programas\exe03.c
+	<stdio.h>
+	<locale.h>
+
+1524326812 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\programas\exe04.c
+	<stdio.h>
+	<locale.h>
+
+1524323498 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\programas\exe05.c
+	<stdio.h>
+	<locale.h>
+
+1524324339 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\programas\exe06.c
+	<stdio.h>
+	<locale.h>
+
+1524325048 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\programas\exe07a.c
+	<stdio.h>
+	<locale.h>
+
+1524325115 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\programas\exe07b.c
+	<stdio.h>
+	<locale.h>
+
+1524325901 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\programas\exe08.c
+	<stdio.h>
+	<locale.h>
+
+1524326146 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\programas\exe09.c
+	<stdio.h>
+	<locale.h>
+
+1524326424 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\programas\exe10.c
+	<stdio.h>
+	<locale.h>
+	<math.h>
+
+1524326658 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\programas\exe11.c
+	<stdio.h>
+	<locale.h>
+
+1524327743 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\programas\exe12.c
+	<stdio.h>
+	<locale.h>
+
+1524328198 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\programas\exe13.c
+	<stdio.h>
+	<locale.h>
+
+1524329185 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\programas\exe14.c
+	<stdio.h>
+	<locale.h>
+
+1524331723 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\programas\exe15.c
+	<stdio.h>
+	<locale.h>
+
+1524331718 source:d:\fatec\2018\alp-ads-tarde\listasexercicios\lista03\programas\exe16.c
+	<stdio.h>
+	<locale.h>
+
+1524410836 source:c:\users\ishida\documents\github\fatec\tiosso\lista03\exe00.c
+	<stdio.h>
+	<locale.h>
+
+1524410880 source:c:\users\ishida\documents\github\fatec\tiosso\lista03\exe01.c
+	<stdio.h>
+	<locale.h>
+
+1524410972 source:c:\users\ishida\documents\github\fatec\tiosso\lista03\exe02.c
+	<stdio.h>
+	<locale.h>
+
+1524411167 source:c:\users\ishida\documents\github\fatec\tiosso\lista03\exe03.c
+	<stdio.h>
+	<locale.h>
+
+1524411230 source:c:\users\ishida\documents\github\fatec\tiosso\lista03\exe04.c
+	<stdio.h>
+	<locale.h>
+
+1524411391 source:c:\users\ishida\documents\github\fatec\tiosso\lista03\exe05.c
+	<stdio.h>
+	<locale.h>
+
+1524411569 source:c:\users\ishida\documents\github\fatec\tiosso\lista03\exe06.c
+	<stdio.h>
+	<locale.h>
+
+1524411658 source:c:\users\ishida\documents\github\fatec\tiosso\lista03\exe07a.c
+	<stdio.h>
+	<locale.h>
+
+1524411705 source:c:\users\ishida\documents\github\fatec\tiosso\lista03\exe07b.c
+	<stdio.h>
+	<locale.h>
+
+1524411886 source:c:\users\ishida\documents\github\fatec\tiosso\lista03\exe08.c
+	<stdio.h>
+	<locale.h>
+
+1524412076 source:c:\users\ishida\documents\github\fatec\tiosso\lista03\exe09.c
+	<stdio.h>
+	<locale.h>
+
+1524337224 source:c:\users\ishida\documents\github\fatec\tiosso\lista03\exe10.c
+	<stdio.h>
+	<locale.h>
+	<math.h>
+
+1524412197 source:c:\users\ishida\documents\github\fatec\tiosso\lista03\exe11.c
+	<stdio.h>
+	<locale.h>
+
+1524412448 source:c:\users\ishida\documents\github\fatec\tiosso\lista03\exe12.c
+	<stdio.h>
+	<locale.h>
+
+1524412704 source:c:\users\ishida\documents\github\fatec\tiosso\lista03\exe13.c
+	<stdio.h>
+	<locale.h>
+
+1524339984 source:c:\users\ishida\documents\github\fatec\tiosso\lista03\exe14.c
+	<stdio.h>
+	<locale.h>
+
+1524415472 source:c:\users\ishida\documents\github\fatec\tiosso\lista03\exe15.c
+	<stdio.h>
+	<locale.h>
+
+1524342518 source:c:\users\ishida\documents\github\fatec\tiosso\lista03\exe16.c
+	<stdio.h>
+	<locale.h>
+
