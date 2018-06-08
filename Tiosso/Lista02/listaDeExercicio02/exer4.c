@@ -1,10 +1,8 @@
-/*
 #include<stdio.h>
 
 int main(){
 	int numero;
-
-	printf("informe um numero: ");
+    printf("Informe um numero: ");
 	scanf("%d",&numero);
 
 	if(numero % 2 == 0 ){
@@ -13,4 +11,4 @@ int main(){
 		printf("o numero %d e impar",numero);
 	}
 }
-*/
+
